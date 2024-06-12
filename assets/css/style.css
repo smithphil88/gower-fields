@@ -61,7 +61,7 @@ h2 {
 /* footer stylings */
 
 footer {
-    height: 100px;
+    height: auto;
     font-family: Poppins, sans-serif;
     color: #fefae0;
     background-color: #ccd5ae;
@@ -96,7 +96,7 @@ footer {
 
 #hero-image {
     height: 37.5rem;
-    width: 100;
+    width: 100%;
     background: url(/assets/images/hero-image2.jpg) no-repeat center center;
     background-color:#fefae0;
 }
@@ -125,6 +125,7 @@ footer {
 #home-info {
     background-color: #E9EDC9;
     height: 750px;
+    margin-bottom: 30px;
 }
 
 #home-info-header {
@@ -139,10 +140,9 @@ footer {
 
 #left-image-outer {
     padding-top: 0px;
-    padding-left: 100px;
-    
     width: 33%;
     float: left;
+    text-align:center;
     }
 
 .left-image>img {
@@ -154,10 +154,10 @@ footer {
 
 #right-image-outer {
     padding-top: 0px;
-    padding-left: 100px;
     width: 33%;
     float: right;
-}
+    text-align:center;
+    }
 
 .right-image>img {
     border-radius: 20px;
@@ -174,6 +174,7 @@ footer {
 .info {
     text-align: center;
     padding-top: 30px;
+    width:100%;
 }
 
 .info p {
@@ -201,6 +202,7 @@ footer {
 .opening-hours {
     padding-top: 30px;
     text-align: center;
+    padding-bottom: 30px;
 }
 
 #hours {
@@ -212,11 +214,36 @@ footer {
 }
 
 /* media and responsiveness */
-
-@media screen and (max-width: 1393px){
-    #home-info {
-        width: 65%;
-        height:1200px;
-        margin: 0 auto;
+@media screen and (max-width: 768px) {
+    #menu {
+        display:flex;
+        justify-content: center;
+        width: 100%;
     }
+
+    #logo {
+        margin: 0;
+    }
+}
+
+@media screen and (max-width: 768px){
+    #home-info {
+        width: 100%;
+        height: auto;
+    }
+
+    #right-image-outer, #left-image-outer {
+        width:100%;
+    }       
+}
+/* about us */
+
+.col-4 {
+    background-color: yellow;
+    height: 600px;
+}
+
+#col-4 {
+    background-color: green;
+    width:33%;
 }
