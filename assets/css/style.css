@@ -2,7 +2,7 @@
 
 body {
     font-family: Poppins, sans-serif;
-    color: #777777;
+    color: #5b5656;
 }
 
 h2 { 
@@ -17,7 +17,7 @@ h2 {
 }
 
 .navbar {
-    background-color: #ccd5ae;
+    background-color: #7f5e3e;
 }
 
 #logo {
@@ -45,7 +45,7 @@ h2 {
 }
 
 #menu a {
-    color:inherit;
+    color: #fefae0;
     text-decoration: none;
 }
 
@@ -64,7 +64,7 @@ footer {
     height: auto;
     font-family: Poppins, sans-serif;
     color: #fefae0;
-    background-color: #ccd5ae;
+    background-color: #7f5e3e;
     position: fixed;
     bottom: 0;
     width: 100%;
@@ -103,20 +103,21 @@ footer {
 
 #cover-text {
     text-align: center;
-    background-color: #D4A373;
-    opacity: 0.75;
+    background-color: #FAEDCD;
+    opacity: 0.65;
     width:300px;
     height: auto;
     position: absolute;
-    top: 12%;
-    left: 50%;
+    top: 15%;
+    left: 25%;
     border-radius: 15px;
     transform: translate(-50%, -50%);
 }
 
 #cover-text, h2 {
-    color:#FAEDCD;
-    font-size: 120%;
+    color:#7f5e3e;
+    font-size: 130%;
+    font-weight: 400;
 }
 
 
@@ -131,11 +132,11 @@ footer {
 #home-info-header {
     text-align: center;
     padding-top: 15px;
-    color: #D4A373;
+    color: #73675c;
 }
 
 #hr-1{
-    border-top: 1px solid #D4A373;
+    border-top: 1px solid #73675c;
 }
 
 #left-image-outer {
@@ -182,7 +183,7 @@ footer {
 }
 
 .button {
-    background-color: #D4A373;
+    background-color: #7f5e3e;
     border: none;
     color: #fefae0;
     padding: 1.5rem;
@@ -196,13 +197,14 @@ footer {
 
  .button:hover {
     background-color: #fefae0;
-    color:#D4A373;
+    color:#7f5e3e;
  }
 
 .opening-hours {
     padding-top: 30px;
     text-align: center;
     padding-bottom: 30px;
+    font-weight:300;
 }
 
 #hours {
@@ -213,7 +215,74 @@ footer {
     padding-left: 0px;
 }
 
-/* media and responsiveness */
+/* about us */
+
+.container-fluid {
+    background-color: #fefae0;
+    height: auto;
+}
+
+.col-4 {
+    padding-top: 0px;
+    width: 33%;
+    float: left;
+    text-align:center;
+}
+
+.left-card-img-top {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height:auto;
+    border-radius: 20px;
+    border: 5px solid #777
+}
+
+.right-card-img-top {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height:auto;
+    border-radius: 20px;
+    border: 5px solid #777
+}
+
+.right-card-body {
+    margin: 0 auto;
+    padding-top: 30px;
+}
+
+.card-outer {
+    height:450px;
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#mid-card-title {
+    font-size: 200%;
+    color: #777777;
+    padding-top: 10px;
+    letter-spacing: 0.15rem;
+}
+
+
+/* icon styling for the about us page */
+
+.fa-umbrella-beach {
+    padding: 5px 5px;
+}
+
+.fa-lock {
+    padding: 5px 5px;
+}
+
+
+
+/* media and responsiveness on home screen */
 @media screen and (max-width: 768px) {
     #menu {
         display:flex;
@@ -235,15 +304,4 @@ footer {
     #right-image-outer, #left-image-outer {
         width:100%;
     }       
-}
-/* about us */
-
-.col-4 {
-    background-color: yellow;
-    height: 600px;
-}
-
-#col-4 {
-    background-color: green;
-    width:33%;
 }
