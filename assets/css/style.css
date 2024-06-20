@@ -3,6 +3,9 @@
 body {
     font-family: Poppins, sans-serif;
     color: #5b5656;
+    min-height: 400px;
+    margin-bottom: 100px;
+    clear: both;
 }
 
 h2 { 
@@ -18,6 +21,7 @@ h2 {
 
 .navbar {
     background-color: #7f5e3e;
+    width: 100%;
 }
 
 #logo {
@@ -280,7 +284,65 @@ footer {
     padding: 5px 5px;
 }
 
+/* Gallery */
 
+#gallery-title {
+    text-align:center;
+    background-color: #fefae0;
+    font-size: 200%;
+    margin: 2px;
+}
+
+.fa-camera-retro {
+    padding: 5px 5px;
+}
+
+#photos {
+    clear:both;
+    line-height: 0;
+    column-count: 3;
+    column-gap: 0px;
+    background-color:#fefae0;
+}
+
+#photos img {
+    width:100%;
+}
+
+/* contact page */
+
+.contact-image-outer {
+    width: 100%;
+    height: 450px;
+}
+
+#hero-image-contact {
+    height: 450px;
+    background: url(../images/hero-image-contact.jpg) no-repeat center center;
+    width: 100%;
+    background-size: cover;
+}
+
+.form-container {
+    height: 600px;
+    width: 100%;
+    background-color: #fefae0;
+    margin-bottom: 100px;
+}
+
+#form-title {
+    text-align: center;
+    font-size: 200%;
+}
+
+.contact-form {
+    background-color: #7f5e3e;
+    color:#E9EDC9;
+    border-radius: 20px;
+    width: 75%;
+    margin: 0 auto;
+    padding-top: 20px;
+}
 
 /* media and responsiveness on home screen */
 @media screen and (max-width: 768px) {
