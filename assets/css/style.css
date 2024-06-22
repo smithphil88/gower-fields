@@ -273,6 +273,10 @@ footer {
     letter-spacing: 0.15rem;
 }
 
+#map {
+    padding-bottom: 30px;
+}
+
 
 /* icon styling for the about us page */
 
