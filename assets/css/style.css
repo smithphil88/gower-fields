@@ -344,7 +344,7 @@ footer {
     padding-top: 20px;
 }
 
-/* media and responsiveness on home screen */
+/* media and responsiveness on tablet size */
 @media screen and (max-width: 768px) {
     #menu {
         display:flex;
@@ -370,6 +370,22 @@ footer {
     }
 
     }
+
+/* response page stylings */
+
+.response-image-outer {
+    width: 100%;
+    height: 450px;
+}
+
+#hero-image-response {
+    height: 450px;
+    background: url(../images/response-image.jpg) no-repeat center center;
+    width: 100%;
+    background-size: cover;
+}
+
+/* media and responsiveness on mobile size */
 
     @media screen and (max-width: 375px) {
 
