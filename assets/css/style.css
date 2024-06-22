@@ -74,10 +74,13 @@ footer {
     position: fixed;
     bottom: 0;
     width: 100%;
+    padding-left: 0;
+    overflow: hidden;
 }
 
 .socials {
     text-align: center;
+    padding-left: 0;
 }
 
 .socials li {
@@ -108,7 +111,7 @@ footer {
 #hero-image {
     height: 37.5rem;
     width: 100%;
-    background: url(../images/hero-image2.jpg) no-repeat center center;
+    background: url("../images/hero-image2.jpg") no-repeat center center;
     background-color:#fefae0;
 }
 
@@ -209,6 +212,7 @@ footer {
 .button:hover {
     background-color: #fefae0;
     color:#7f5e3e;
+    border: 0 solid #5b5656;
 }
 
 .opening-hours {
@@ -262,7 +266,6 @@ footer {
 
 .right-card-body {
     margin: 0 auto;
-    padding-top: 30px;
 }
 
 .card-outer {
@@ -282,6 +285,8 @@ footer {
 
 #map {
     padding-bottom: 30px;
+    margin: 0 auto;
+    width: 100%;
 }
 
 
@@ -301,11 +306,12 @@ footer {
     text-align:center;
     background-color: #fefae0;
     font-size: 200%;
-    margin: 2px;
+    margin: 0 auto;
+    padding: 30px 0px 30px;
 }
 
 .fa-camera-retro {
-    padding: 5px 5px;
+    padding: 0px 35px;
 }
 
 #photos {
@@ -329,7 +335,7 @@ footer {
 
 #hero-image-contact {
     height: 450px;
-    background: url(../images/hero-image-contact.jpg) no-repeat center center;
+    background: url("../images/hero-image-contact.jpg") no-repeat center center;
     width: 100%;
     background-size: cover;
 }
@@ -344,6 +350,8 @@ footer {
 #form-title {
     text-align: center;
     font-size: 200%;
+    margin: 5px;
+    padding: 30px 0px 30px;
 }
 
 .contact-form {
@@ -354,6 +362,19 @@ footer {
     margin: 0 auto;
     padding-top: 20px;
 }
+
+.submit-button {
+    font-size: 25px;
+    background-color: #fefae0;
+    color:#7f5e3e;
+}
+
+.submit-button:hover {
+    background-color: #D4A373;
+    color: #fefae0;;
+    font-size: 25px;
+}
+
 
 /* response page stylings */
 
@@ -381,17 +402,17 @@ footer {
         margin: 0;
     }
 
-    #home-info {
-        width: 100%;
-        height: auto;
-    }
-
     #right-image-outer, #left-image-outer {
         width:100%;
     }   
 
     #photos {
         column-count: 3;
+    }
+
+    #gallery-title {
+        text-align: center;
+        margin: 0 auto;
     }
 
     }
@@ -403,7 +424,4 @@ footer {
         #photos {
             column-count: 2;
         }
-    }
-        #menu {
-            
-        } 
+    } 
