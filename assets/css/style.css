@@ -76,6 +76,7 @@ footer {
     width: 100%;
     padding-left: 0;
     overflow: hidden;
+    
 }
 
 .socials {
@@ -284,7 +285,7 @@ footer {
 }
 
 #map {
-    padding-bottom: 30px;
+    padding-bottom: 40px;
     margin: 0 auto;
     width: 100%;
 }
@@ -302,16 +303,17 @@ footer {
 
 /* Gallery */
 
+.col-12 {
+    padding: 0px;
+}
+
 #gallery-title {
     text-align:center;
     background-color: #fefae0;
     font-size: 200%;
     margin: 0 auto;
     padding: 30px 0px 30px;
-}
-
-.fa-camera-retro {
-    padding: 0px 35px;
+    width: 100%;
 }
 
 #photos {
@@ -341,7 +343,7 @@ footer {
 }
 
 .form-container {
-    height: 600px;
+    height: 700px;
     width: 100%;
     background-color: #fefae0;
     margin-bottom: 100px;
@@ -360,7 +362,7 @@ footer {
     border-radius: 20px;
     width: 75%;
     margin: 0 auto;
-    padding-top: 20px;
+    padding: 20px;
 }
 
 .submit-button {
@@ -385,7 +387,7 @@ footer {
 
 #hero-image-response {
     height: 450px;
-    background: url(../images/response-image.jpg) no-repeat center center;
+    background: url("../images/response-image.jpg") no-repeat center center;
     width: 100%;
     background-size: cover;
 }
@@ -398,14 +400,27 @@ footer {
         width: 100%;
     }
 
+    #home-info {
+        height: 100%;
+    }
+
     #logo {
         margin: 0;
     }
 
-    #right-image-outer, #left-image-outer {
+    #about-us {
         width:100%;
-    }   
+        margin: 0 auto;
+        display: flex;
+        flex-direction: row;
+    }
 
+    #right-image-outer, #left-image-outer {
+        width:65%;
+        float:left;
+        padding: 0;
+    }
+    
     #photos {
         column-count: 3;
     }
@@ -413,6 +428,15 @@ footer {
     #gallery-title {
         text-align: center;
         margin: 0 auto;
+        font-size: 18px;
+    }
+
+    .form-container{
+        height:700px;
+    }
+
+    #form-title {
+        font-size: 20px
     }
 
     }
@@ -423,5 +447,15 @@ footer {
 
         #photos {
             column-count: 2;
+        }
+
+        #gallery-title {
+            text-align: center;
+            margin: 0 auto;
+            font-size: 16px;
+        }
+
+        #form-title {
+            font-size: 16px
         }
     } 
