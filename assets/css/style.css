@@ -14,6 +14,7 @@ h2 {
     color: #fefae0;
     font-weight: 300;
     font-size:large;
+    margin: 20px 0;
 }
 /*navbar link stylings */
 
@@ -239,7 +240,7 @@ footer {
     height: auto;
 }
 
-.col-4 {
+.col-lg-4 {
     padding-top: 0px;
     width: 33%;
     float: left;
@@ -280,7 +281,7 @@ footer {
 
 #mid-card-title {
     font-size: 200%;
-    color: #777777;
+    color: #7f5e3e;
     padding-top: 10px;
     letter-spacing: 0.15rem;
 }
@@ -299,6 +300,10 @@ footer {
 }
 
 .fa-lock {
+    padding: 5px 5px;
+}
+
+.fa-location-dot {
     padding: 5px 5px;
 }
 
@@ -470,4 +475,9 @@ footer {
         #form-title {
             font-size: 16px
         }
-    } 
+
+        .card-outer {
+            height: auto;
+        }
+
+    }
