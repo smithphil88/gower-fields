@@ -78,12 +78,12 @@ footer {
     width: 100%;
     padding-left: 0;
     overflow: hidden;
-    
 }
 
 .socials {
     text-align: center;
     padding-left: 0;
+    margin-bottom: 0;
 }
 
 .socials li {
@@ -396,6 +396,18 @@ footer {
     background: url("../images/response-image.jpg") no-repeat center center;
     width: 100%;
     background-size: cover;
+}
+
+#response {
+    background-color: #fefae0;
+    text-align: center;
+    height: 10px;
+}
+
+#response-icon {
+    font-size: 200%;
+    color: #7f5e3e;
+    padding-top: 40px;
 }
 
 /* media and responsiveness on tablet size */
