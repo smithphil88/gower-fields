@@ -9,6 +9,8 @@
   * User Stories
 - Design
 - Features
+  *Pages
+  *
 - Languages
 - Technologies used
 - Testing
@@ -72,6 +74,14 @@ As a user, I would like to
 ### Fonts & Colours
 
 Google fonts was used in order to import in Poppins and as a back-up font Sans Serif. Poppins was chosen to convey a modern and simple style while being easy to read. A colour scheme was chosen from [Coolors](https://coolors.co/). This colour scheme was chosen to convey the mood of the website. The earth coloured tones set the atmosphere of the site as it evokes feelings of being outside in nature. The colours were slightly altered from the original palette due to contrast issues.
+
+### Images 
+
+All images have been taken from websites that will be attributed in the credit section. These images have been re-sized to make them more appealing and consistent using a re-sizing tool. The images used are including to add to the visual appeal of the site. The colours in the images are ones with neutral and natural tones to keep inline with the colour scheme that was chosen.
+
+## Features
+
+
 
 
 
