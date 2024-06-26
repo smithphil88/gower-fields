@@ -7,6 +7,7 @@ body {
     margin-bottom: 100px;
     clear: both;
     width: 100%;
+    background-color: #fefae0;
 }
 
 h2 { 
@@ -113,7 +114,7 @@ footer {
     height: 37.5rem;
     width: 100%;
     background: url("../images/hero-image2.jpg") no-repeat center center;
-    background-color:#fefae0;
+    background-color:#E9EDC9;
 }
 
 #cover-text {
@@ -139,7 +140,7 @@ footer {
 /* home info */
 
 #home-info {
-    background-color: #E9EDC9;
+    background-color: #fefae0;
     height: 750px;
     margin-bottom: 30px;
 }
