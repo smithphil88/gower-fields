@@ -273,6 +273,11 @@ footer {
 
 .right-card-body {
     margin: 0 auto;
+    padding: 5px;
+}
+
+.left-card-body {
+    padding: 5px;
 }
 
 .card-outer {

@@ -162,19 +162,19 @@ All images have been taken from websites that will be attributed in the credits 
 
 ## Languages
 
-- HTML was used to create the layout of the site.
-- CSS was used to style the site.
+- [HTML](https://en.wikipedia.org/wiki/HTML) was used to create the layout of the site.
+- [CSS](https://en.wikipedia.org/wiki/CSS) was used to style the site.
 
 ### Technologies used 
 
-- Google Fonts - this was used to import the fonts Poppins and Sans-serif, which is used throughout the site.
-- Font Awesome - this was used in order to have icons load onto certain pages.
-- BIRME - this was used to re-size the images throughout the site.
-- Balsamiq - this was utilised to create my wireframes.
-- Git - this was used for version control, using the terminal to add, commit and push to GitHub.
-- Gitpod - this was the IDE used to code.
-- GitHub - this is used to store the project in a repository.
-- Google maps - this was used to provide the map on the about page.
+- [Google Fonts](https://fonts.google.com/) - this was used to import the fonts Poppins and Sans-serif, which is used throughout the site.
+- [Font Awesome](https://fontawesome.com/) - this was used in order to have icons load onto certain pages.
+- [BIRME](https://www.birme.net/) - this was used to re-size the images throughout the site.
+- [Balsamiq](https://balsamiq.com/) - this was utilised to create my wireframes.
+- [Git](https://git-scm.com/) - this was used for version control, using the terminal to add, commit and push to GitHub.
+- [Gitpod](https://www.gitpod.io/) - this was the IDE used to code.
+- [GitHub](https://github.com/) - this is used to store the project in a repository.
+- [Google maps](https://www.google.co.uk/maps/@51.6114098,-4.2372575,10.42z?entry=ttu) - this was used to provide the map on the about page.
 
 ## Testing 
 
