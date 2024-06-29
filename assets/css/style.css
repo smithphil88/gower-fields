@@ -218,6 +218,10 @@ footer {
     border: 0 solid #5b5656;
 }
 
+#opening-hours {
+    font-size: 32px;
+}
+
 .opening-hours {
     padding-top: 30px;
     text-align: center;
