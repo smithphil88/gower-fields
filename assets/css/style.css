@@ -7,6 +7,7 @@ body {
     margin-bottom: 100px;
     clear: both;
     width: 100%;
+    min-width: fit-content;
     background-color: #fefae0;
 }
 
@@ -97,6 +98,11 @@ footer {
     color:#fefae0;
 }
 
+.socials ul {
+    overflow: hidden;
+    width:100%;
+}
+
 .fa-brands:hover {
     background-color: #fefae0;
     color: #7f5e3e;
@@ -150,6 +156,7 @@ footer {
     text-align: center;
     padding-top: 15px;
     color: #73675c;
+    font-size: 50px;
 }
 
 #hr-1{
@@ -404,7 +411,7 @@ footer {
     height: 450px;
     background: url("../images/response-image.jpg") no-repeat center center;
     width: 100%;
-    background-size: cover;
+    background-size: contain;
 }
 
 #response {
