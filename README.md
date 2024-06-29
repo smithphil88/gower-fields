@@ -11,14 +11,15 @@
   * [User Stories](#user-stories)
 - [Design](#design)
   * [Font & Colours](#fonts--colours)
-  * [Images]('images)
+  * [Images](#images)
+  * [Wireframes](#wireframes)
 - [Features](#features)
 - [Languages](#languages)
   * [Technologies used](#technologies-used)
-- [Testing]
-- [Deployment]
-- [Bugs]
-- [Credits]
+- [Testing](#testing)
+- [Deployment](#deployment)
+- [Bugs](#bugs)
+- [Credits](#credits)
 
 
 # Introduction
@@ -171,7 +172,11 @@ All images have been taken from websites that will be attributed in the credits 
 
 Please see the testing.md file for all testing
 
+## Deployment
+
 ## Bugs 
+
+## Credits
 
 
 
