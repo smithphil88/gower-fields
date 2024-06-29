@@ -67,7 +67,7 @@ As a user, I would like to
 ### Business Owner
 
 1. As a business owner, I want to provide users with clear information, so they know what we offer.
-2. As a business owner, I want to provide an easy-to-use contact form so they can get in touch.
+2. As a business owner, I want to provide an easy-to-use contact form so they can get in touch with a response page so they feel valued.
 3. As a business owner, I want to show users the grounds and images from other customers so they can know what other people experience.
 4. As a business owner, I want to promote the business by linking with social media to make the business more accessible.
 

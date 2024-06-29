@@ -25,6 +25,7 @@ The following screenshots evidence the how the site has synced up with the user 
 3. As a first-time user, I want to find where this location is and when it is open so I can make an informed decision.
 
 ![location](documentation/user-stories/user-story-3.png)
+![opening-times](documentation/user-stories/user-story-3-1.png)
 
 4. As a first-time user, I want to access the website on a variety of screen sizes.
 
@@ -51,19 +52,20 @@ The following screenshots evidence the how the site has synced up with the user 
 1. As a business owner, I want to provide users with clear information, so they know what we offer.
 
 ![clear offers](documentation/user-stories/user-story-8.png)
-![clear offer](documentation/user-stories/user-story-2.png)
+![clear offers](documentation/user-stories/user-story-2.png)
 
-2. As a business owner, I want to provide an easy-to-use contact form so they can get in touch.
+2. As a business owner, I want to provide an easy-to-use contact form so they can get in touch with a response page so they feel valued.
 
-
+![contact form](documentation/user-stories/user-story-9.png)
+![response page](documentation/user-stories/user-story-9-1.png)
 
 3. As a business owner, I want to show users the grounds and images from other customers so they can know what other people experience.
 
-
+![gallery](documentation/user-stories/user-story-10.png)
 
 4. As a business owner, I want to promote the business by linking with social media to make the business more accessible.
 
-
+![social media](documentation/user-stories/user-story-6.png)
 
 ## Lighthouse
 
