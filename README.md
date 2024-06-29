@@ -86,11 +86,19 @@ All images have been taken from websites that will be attributed in the credits 
 
 #### Home Page Wirferames
 
+![Home-Page](documentation/wireframes/home-wireframe.png)
+
 #### About Page Wireframes
+
+![About-Page](documentation/wireframes/about-wireframe.png)
 
 #### Gallery Page Wireframes
 
+![Gallery-Page](documentation/wireframes/gallery-wireframe.png)
+
 #### Contact Page Wireframes
+
+![Contact-Page](documentation/wireframes/contact-wireframe.png)
 
 ## Features
 
@@ -175,6 +183,33 @@ Please see the [TESTING.md](TESTING.md) file for all testing
 ## Deployment
 
 ## Bugs 
+
+This list compromises of the bugs that I had significant struggles with;
+
+- The images did not load upon first deploying via GitHub - fixed by using the correct path to my assets folder.
+
+![images not loading when deployed](documentation/bug-1.png)
+
+- The width of the background was shorter than the footer - fixed by hiding the overflow of the footer.
+
+![screen width not loading the full width](documentation/bug-2.png)
+
+- Error code 404 shown when previewing site. Favicon on tab was not loading correctly - fixed by adding in code for favicon to load.
+
+![favicon error](documentation/bug-3.png)
+
+- Gallery images were not the same size as each other and it looked jarring - fixed by re-sizing all images to same size.
+
+![gallery images not same size](documentation/bug-4.png)
+
+- A white space appeared on all pages underneath my content but above my footer - fixed by applying style 'min-height' to the body.
+
+![white space error](documentation/bug-5.png)
+![white space error](documentation/bug-6.png)
+
+- The columns on the about page were in the correct order on the desktop view, however I wanted them in a different order on mobile and tablet - fixed by using the order class.
+
+![columns not loading in preferred manner](documentation/bug-7.png)
 
 ## Credits
 
