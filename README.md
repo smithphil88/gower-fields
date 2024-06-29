@@ -170,7 +170,7 @@ All images have been taken from websites that will be attributed in the credits 
 
 ## Testing 
 
-Please see the testing.md file for all testing
+Please see the [TESTING.md](TESTING.md) file for all testing
 
 ## Deployment
 
