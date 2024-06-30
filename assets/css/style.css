@@ -434,6 +434,12 @@ footer {
         width: 100%;
     }
 
+    #contact-menu {
+        display:flex;
+        justify-content: center;
+        width: 100%;
+    }
+
     #home-info {
         height: 100%;
     }

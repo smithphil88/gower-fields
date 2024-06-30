@@ -76,11 +76,11 @@ As a user, I would like to
 
 ### Fonts & Colours
 
-Google fonts was used in order to import in Poppins and as a back-up font Sans Serif. Poppins was chosen to convey a modern and simple style while being easy to read. A colour scheme was chosen from [Coolors](https://coolors.co/). This colour scheme was chosen to convey the mood of the website. The earth coloured tones set the atmosphere of the site as it evokes feelings of being outside in nature. The colours were slightly altered from the original palette due to contrast issues.
+Google fonts was used in order to import Poppins and as a back-up font Sans Serif. Poppins was chosen to convey a modern and simple style while being easy to read. A colour scheme was chosen from [Coolors](https://coolors.co/). This colour scheme was chosen to convey the mood of the website. The earth coloured tones set the atmosphere of the site as it evokes feelings of being outside in nature. The colours were slightly altered from the original palette due to contrast issues.
 
 ### Images 
 
-All images have been taken from websites that will be attributed in the credits section. These images have been re-sized to make them more appealing and consistent using a re-sizing tool. The images used are including to add to the visual appeal of the site. The colours in the images are ones with neutral and natural tones to keep inline with the colour scheme that was chosen.
+All images have been taken from websites that will be attributed in the credits section. These images have been re-sized to make them more appealing and consistent using a re-sizing tool. The images used are included to add to the visual appeal of the site. The colours in the images are ones with neutral and natural tones to keep inline with the colour scheme that was chosen.
 
 ### Wireframes
 
@@ -107,7 +107,7 @@ All images have been taken from websites that will be attributed in the credits 
 - The navigation bar is located at the top of each page on the site.
 - The bar links well with the colour scheme of the main content and does not distract.
 - On the left hand side of the navigation bar, there is the name of the business and its logo.
-- Clicking on the logo on the right hand side will take you back to the home page.
+- Clicking on the logo on the left-hand side will take you back to the home page.
 - On the right-hand side of the navigation bar, there are links to the other pages (Home, About, Gallery and Contact).
 - When hovering over a link, the word changes colour, keeping with the color scheme.
 - Also, the page link will be underlined when it is active.
@@ -212,6 +212,19 @@ This list compromises of the bugs that I had significant struggles with;
 ![columns not loading in preferred manner](documentation/bug-7.png)
 
 ## Credits
+
+The following list is to attribute my photos and any code that I used from external sources.
+
+### Photos
+
+The following websites were used:
+
+[Pexels.com](https://www.pexels.com/)
+[Unsplash.com](https://unsplash.com/)
+[Freepik.com](https://www.freepik.com/)
+
+And credit goes to the individual photographers for these stunning images.
+
 
 
 
