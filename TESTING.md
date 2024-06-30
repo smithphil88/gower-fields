@@ -1,5 +1,7 @@
 <h1 align="center"> Gower Fields </h1>
 
+<img src="documentation/gower-fields.png" alt="drawing" width="200"/>
+
 # Testing
 
 In this section, I will demonstrate a variety of tests that my site went through to ensure that it hit the criteria of the assessment.

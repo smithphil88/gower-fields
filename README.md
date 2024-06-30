@@ -1,6 +1,10 @@
 <h1 align="center"> Gower Fields </h1>
 
-<img src="documentation/gower-fields.png" alt="drawing" width="200"/>
+
+<p align="center">
+  <img src="documentation/screens.png">
+</p>
+
 
 # Table of Contents
 
@@ -219,19 +223,41 @@ The following list is to attribute my photos and any code that I used from exter
 
 The following websites were used:
 
-[Pexels.com](https://www.pexels.com/)
-[Unsplash.com](https://unsplash.com/)
-[Freepik.com](https://www.freepik.com/)
+* [Pexels.com](https://www.pexels.com/)
+* [Unsplash.com](https://unsplash.com/)
+* [Freepik.com](https://www.freepik.com/)
 
 And credit goes to the individual photographers for these stunning images.
 
+#### Gallery photos
+
+- [Two dogs running on a green field under a blue sky](https://www.pexels.com/photo/dogs-running-on-the-field-under-blue-sky-215957/)
+- [Two dogs smelling the ground on a stony path](https://www.pexels.com/photo/selective-focus-photography-of-two-dogs-in-the-middle-of-road-2027105/)
+- [Two dogs and two woman walking](https://www.pexels.com/photo/photo-of-women-running-with-their-dogs-on-grass-field-4148859/)
+- [Two small dogs under a purple and pink sky](https://www.pexels.com/photo/dogs-walking-in-grass-on-sunset-18631722/)
+- [Five small dogs running in green grass](https://www.pexels.com/photo/a-cute-dogs-running-on-green-grass-field-12538670/)
+- [Three large dogs walking on green grass in front of dark green trees](https://www.pexels.com/photo/dogs-walking-on-grass-field-12287959/)
+- [A Jack Russell running with a ball in its mouth](https://www.pexels.com/photo/dog-running-on-grass-422220/)
+- [A Bernese Mountain dog running](https://www.pexels.com/photo/bernese-mountain-dog-running-on-grass-field-290214/)
+- [n elderly man walking his dog](https://www.pexels.com/photo/person-walking-with-puppy-near-trees-1587242/)
+- [A woman stroking a retriever on its chin](https://www.pexels.com/photo/woman-caressing-dog-on-field-7932584/)
+- [Two dogs sitting on yellow grass with a woman in the background](https://www.pexels.com/photo/collie-and-labrador-against-woman-chatting-on-smartphone-in-countryside-7210579/)
+- [A retriever smiling at the camera](https://www.pexels.com/photo/content-golden-retriever-in-field-at-sundown-5268300/)
+
+#### Hero images
+
+- [Home page](https://www.pexels.com/photo/dog-on-green-grass-field-11444586/)
+- [Contact page](https://unsplash.com/photos/a-dog-standing-in-a-field-with-mountains-in-the-background-O0hJIpBQCkk)
+- [Response page](https://www.freepik.com/free-photo/greyhound-dog-enjoying-his-walk_34674973.htm#fromView=search&page=1&position=11&uuid=9ddef757-10cb-41ed-a91d-9367508fc46c)
 
 
+#### Other photos
 
+- [Home page photos](https://www.pexels.com/photo/a-bearded-man-taking-photo-of-a-woman-and-a-dog-4504091/)
+- [Home page photos](https://www.pexels.com/photo/couple-holding-hands-while-walking-on-green-grass-field-with-shiba-inu-dog-4503587/)
+- [About photos](https://www.pexels.com/photo/a-border-collie-dog-running-on-a-meadow-22941080/)
+- [About photos](https://unsplash.com/photos/brown-puppy-walking-on-grass-field-e5thHbI70uw)
 
+### Code 
 
-
-
-
-
-
+To add in a favicon I used the code on this site - [W3schools](https://www.w3schools.com/howto/howto_html_favicon.asp)
