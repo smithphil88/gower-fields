@@ -8,6 +8,8 @@ In this section, I will demonstrate a variety of tests that my site went through
 
 ## Code Validation
 
+#### HTML validation
+
 I have put all html pages through the [HTML W3C Validator](https://validator.w3.org) in order to validate my site.
 
 Home page - passed with no errors
@@ -31,6 +33,13 @@ Response page - passed with no errors but with warnings.
 ![Response page](documentation/html-validation-5.png)
 
 All warnings suggested that I use h2-h6 values to organise the page. Or to use a div to organise them. I have used a div but the warnings still appeared.
+
+#### CSS validation
+
+I used the suggested [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator) to validate my CSS.
+
+![css](documentation/css-validation.png)
+
 
 ## User Stories
 
@@ -108,8 +117,8 @@ Including the following:
 
 ## Responsiveness
 
+My site is responsive across devices of different sizes. I have tested on
 
-
-### README
+## README
 
 A link back to the [README](README.md) file.
