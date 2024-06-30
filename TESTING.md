@@ -8,7 +8,29 @@ In this section, I will demonstrate a variety of tests that my site went through
 
 ## Code Validation
 
+I have put all html pages through the [HTML W3C Validator](https://validator.w3.org) in order to validate my site.
 
+Home page - passed with no errors
+
+![Home page](documentation/html-validation-1.png)
+
+About page - passed with no errors
+
+![About page](documentation/html-validation-2.png)
+
+Gallery page - passed with no errors but with warnings.
+
+![Gallery page](documentation/html-validation-3.png)
+
+Contact page - passed with no errors but with warnings.
+
+![Contact page](documentation/html-validation-4.png)
+
+Response page - passed with no errors but with warnings.
+
+![Response page](documentation/html-validation-5.png)
+
+All warnings suggested that I use h2-h6 values to organise the page. Or to use a div to organise them. I have used a div but the warnings still appeared.
 
 ## User Stories
 
@@ -73,7 +95,20 @@ The following screenshots evidence the how the site has synced up with the user 
 
 ## Manual Testing
 
+All links within the site have been tested to ensure that they work and all have passed.
+
+Including the following:
+
+1. All navbar links.
+2. All footer links open in a new tab and direct to the relevant social media pages.
+3. The map on the about page can be opened in a new tab for a larger map.
+4. The button on the home page takes the user to the contact page.
+5. The contact form takes the user to a response page with a reply message.
+6. The icon on the response page will direct the user back to the home page.
+
 ## Responsiveness
+
+
 
 ### README
 
