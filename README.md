@@ -239,7 +239,7 @@ And credit goes to the individual photographers for these stunning images.
 - [Three large dogs walking on green grass in front of dark green trees](https://www.pexels.com/photo/dogs-walking-on-grass-field-12287959/)
 - [A Jack Russell running with a ball in its mouth](https://www.pexels.com/photo/dog-running-on-grass-422220/)
 - [A Bernese Mountain dog running](https://www.pexels.com/photo/bernese-mountain-dog-running-on-grass-field-290214/)
-- [n elderly man walking his dog](https://www.pexels.com/photo/person-walking-with-puppy-near-trees-1587242/)
+- [An elderly man walking his dog](https://www.pexels.com/photo/person-walking-with-puppy-near-trees-1587242/)
 - [A woman stroking a retriever on its chin](https://www.pexels.com/photo/woman-caressing-dog-on-field-7932584/)
 - [Two dogs sitting on yellow grass with a woman in the background](https://www.pexels.com/photo/collie-and-labrador-against-woman-chatting-on-smartphone-in-countryside-7210579/)
 - [A retriever smiling at the camera](https://www.pexels.com/photo/content-golden-retriever-in-field-at-sundown-5268300/)
@@ -260,4 +260,15 @@ And credit goes to the individual photographers for these stunning images.
 
 ### Code 
 
-To add in a favicon I used the code on this site - [W3schools](https://www.w3schools.com/howto/howto_html_favicon.asp)
+- To add in a favicon I used the code on this site - [W3schools](https://www.w3schools.com/howto/howto_html_favicon.asp)
+
+- I used this bootstrap code intially on the about page but customised it to suit what I wanted - [Bootstrap card](https://getbootstrap.com/docs/4.0/components/card/)
+
+- The code used for my gallery was custommised but intially taken from the Code Institue 'Love Running' project.
+
+- 
+
+### Acknowledgments
+
+- My partner Emma, who has supported this career switch 100%.
+- My mentor Julia, who has provided expert guidance and feedback.
