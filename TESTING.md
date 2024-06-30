@@ -43,7 +43,7 @@ I used the suggested [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator)
 
 ## User Stories
 
-The following screenshots evidence the how the site has synced up with the user stories.
+The following screenshots evidence how the site has synced up with the user stories.
 
 ## First Time User
 
