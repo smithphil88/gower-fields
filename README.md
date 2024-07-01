@@ -250,7 +250,6 @@ And credit goes to the individual photographers for these stunning images.
 - [Contact page](https://unsplash.com/photos/a-dog-standing-in-a-field-with-mountains-in-the-background-O0hJIpBQCkk)
 - [Response page](https://www.freepik.com/free-photo/greyhound-dog-enjoying-his-walk_34674973.htm#fromView=search&page=1&position=11&uuid=9ddef757-10cb-41ed-a91d-9367508fc46c)
 
-
 #### Other photos
 
 - [Home page photos](https://www.pexels.com/photo/a-bearded-man-taking-photo-of-a-woman-and-a-dog-4504091/)
