@@ -99,7 +99,7 @@ footer {
 
 .socials ul {
     overflow: hidden;
-    width:100%;
+    width: 100%;
 }
 
 .fa-brands:hover {
@@ -127,7 +127,7 @@ footer {
     text-align: center;
     background-color: #FAEDCD;
     opacity: 0.65;
-    width:300px;
+    width: 300px;
     height: auto;
     position: absolute;
     top: 15%;
@@ -166,8 +166,8 @@ footer {
     padding-top: 0px;
     width: 33%;
     float: left;
-    text-align:center;
-    }
+    text-align: center;
+}
 
 .left-image>img {
     border-radius: 20px;
@@ -232,12 +232,12 @@ footer {
     padding-top: 30px;
     text-align: center;
     padding-bottom: 30px;
-    font-weight:300;
+    font-weight: 300;
 }
 
 #hours {
     list-style-type: none;
-    text-align:center;
+    text-align: center;
     display: flex;
     flex-direction: column;
     padding-left: 0px;
@@ -262,7 +262,7 @@ footer {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-    height:auto;
+    height: auto;
     border-radius: 20px;
     border: 5px solid #777
 }
@@ -272,7 +272,7 @@ footer {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-    height:auto;
+    height: auto;
     border-radius: 20px;
     border: 5px solid #777
 }
@@ -287,8 +287,8 @@ footer {
 }
 
 .card-outer {
-    height:450px;
-    width:100%;
+    height: 450px;
+    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -329,7 +329,7 @@ footer {
 }
 
 #gallery-title {
-    text-align:center;
+    text-align: center;
     background-color: #fefae0;
     font-size: 200%;
     margin: 0 auto;
@@ -338,7 +338,7 @@ footer {
 }
 
 #photos {
-    clear:both;
+    clear: both;
     line-height: 0;
     column-count: 4;
     column-gap: 0px;
@@ -346,7 +346,7 @@ footer {
 }
 
 #photos img {
-    width:100%;
+    width: 100%;
 }
 
 /* contact page */
@@ -375,6 +375,10 @@ footer {
     font-size: 200%;
     margin: 5px;
     padding: 30px 0px 30px;
+}
+
+.row {
+    margin-right: 0px;
 }
 
 .contact-form {
@@ -431,86 +435,86 @@ footer {
         display:flex;
         justify-content: center;
         width: 100%;
-    }
+}
 
     #contact-menu {
         display:flex;
         justify-content: center;
         width: 100%;
-    }
+}
 
     #home-info {
         height: 100%;
-    }
+}
 
     #logo {
         margin: 0;
-    }
+}
 
     #about-us {
         width:100%;
         margin: 0 auto;
         display: flex;
         flex-direction: row;
-    }
+}
 
     #right-image-outer, #left-image-outer {
         width:100%;
         float:left;
         padding-bottom: 10px;
-    }
-    
+}
+
     #photos {
         column-count: 3;
-    }
+}
 
     #gallery-title {
         text-align: center;
         margin: 0 auto;
         font-size: 18px;
-    }
+}
 
     .form-container{
         height:700px;
-    }
+}
 
     #form-title {
         font-size: 20px
-    }
+}
 
-    }
+}
 
 /* media and responsiveness on mobile size */
 
-    @media screen and (max-width: 375px) {
+@media screen and (max-width: 375px) {
 
-        #home-info-header {
+    #home-info-header {
             font-size: 26px;
-        }
+}
 
-        #cover-text {
+    #cover-text {
             position: absolute;
             top: 15%;
             left: 50%;
             font-size: 100%;
-        }
+}
 
-        #photos {
+    #photos {
             column-count: 2;
-        }
+}
 
-        #gallery-title {
+    #gallery-title {
             text-align: center;
             margin: 0 auto;
             font-size: 16px;
-        }
+}
 
-        #form-title {
+    #form-title {
             font-size: 16px
-        }
+}
 
-        .card-outer {
+    .card-outer {
             height: auto;
-        }
+}
 
-    }
+}
