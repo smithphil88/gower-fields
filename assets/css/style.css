@@ -16,6 +16,7 @@ h2 {
     font-size:large;
     margin: 20px 0;
 }
+
 /*navbar link stylings */
 
 .fa-dog {
@@ -141,7 +142,6 @@ footer {
     font-size: 130%;
     font-weight: 400;
 }
-
 
 /* home info */
 
@@ -307,7 +307,6 @@ footer {
     width: 100%;
 }
 
-
 /* icon styling for the about us page */
 
 .fa-umbrella-beach {
@@ -398,7 +397,7 @@ footer {
 
 .submit-button:hover {
     background-color: #D4A373;
-    color: #fefae0;;
+    color: #fefae0;
     font-size: 25px;
 }
 
@@ -426,7 +425,11 @@ footer {
 #response-icon {
     font-size: 200%;
     color: #7f5e3e;
-    padding-top: 40px;
+}
+
+#response-icon:hover {
+    background-color: #7f5e3e;
+    color: #fefae0;
 }
 
 /* media and responsiveness on tablet size */
