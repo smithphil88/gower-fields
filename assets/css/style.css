@@ -3,7 +3,7 @@
 body {
     font-family: Poppins, sans-serif;
     color: #5b5656;
-    max-height: 600px;
+    max-height: 400px;
     margin-bottom: 100px;
     clear: both;
     width: 100%;
@@ -78,6 +78,7 @@ footer {
     width: 100%;
     padding-left: 0;
     overflow: hidden;
+    position: relative;
 }
 
 .socials {
@@ -420,12 +421,13 @@ footer {
 #response {
     background-color: #fefae0;
     text-align: center;
-    height: 10px;
+    margin: 50px 0px;
 }
 
 #response-icon {
     font-size: 200%;
     color: #7f5e3e;
+    margin: 10px 0px 50px 0px;
 }
 
 #response-icon:hover {
