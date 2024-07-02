@@ -3,7 +3,7 @@
 body {
     font-family: Poppins, sans-serif;
     color: #5b5656;
-    min-height: 400px;
+    max-height: 600px;
     margin-bottom: 100px;
     clear: both;
     width: 100%;
@@ -74,7 +74,6 @@ footer {
     font-family: Poppins, sans-serif;
     color: #fefae0;
     background-color: #7f5e3e;
-    position: fixed;
     bottom: 0;
     width: 100%;
     padding-left: 0;
@@ -393,6 +392,8 @@ footer {
     font-size: 25px;
     background-color: #fefae0;
     color:#7f5e3e;
+    border-radius: 10px;
+    font-weight: 300;
 }
 
 .submit-button:hover {
