@@ -139,15 +139,15 @@ Including the following:
 3. The Gallery link will take the user to the Gallery page.
 4. The Contact link will take the user to the Contact page.
 5. On the Home page, there is a button that takes the user to the Contact page.
-6. In the footer, all three social media links to Facebook, Instagram and Tik Tok work and open a new tab.
-7. The About page contains a map which opens in google maps.
+6. In the footer, all three social media links to Facebook, Instagram and TikTok work and open a new tab.
+7. The About page contains a map which opens in Google Maps.
 8. On the Contact Page the form requires the user to present information in order to send the form. This includes a valid email address.
 9. The send button will take the user to a Response page.
 10. On the Response page the user is directed back to the Home page via the same icon that is on the navbar.
 
 ### Responsiveness
 
-My site is responsive across devices of different sizes. I have tested on the following using [responsive viewer](https://responsiveviewer.org/)
+My site is responsive across devices of different sizes. I have tested on the following using [responsive viewer](https://responsiveviewer.org/).
 
 | Device and size | Screenshot | Comments |
 | --- | --- | --- |
