@@ -38,7 +38,25 @@ All warnings suggested that I use h2-h6 values to organise the page. Or to use a
 
 I used the suggested [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator) to validate my CSS.
 
+ - Home page
+
 ![css](documentation/css-validation.png)
+
+- About page
+
+![css](documentation/css-validation-about.png)
+
+- Gallery page
+
+![css](documentation/css-validation-gallery.png)
+
+- Contact page
+
+![css](documentation/css-validation-contact.png)
+
+- Contact Response page
+
+![css](documentation/css-validation-contact-response.png)
 
 ### User Stories
 
@@ -99,7 +117,16 @@ The following screenshots evidence how the site has synced up with the user stor
 
 ![social media](documentation/user-stories/user-story-6.png)
 
-### Lighthouse
+### Browser Compatibility
+
+I have tested my site on a number of browsers to check for any issues.
+
+| Browser | Screenshot | Comments |
+| --- | --- | --- |
+| Chrome | ![Chrome](documentation/compatibility/chrome.png) | Works as expected |
+| Edge | ![Edge](documentation/compatibility/edge.png) | Works as expected |
+| Firefox | ![Firefox](documentation/compatibility/firefox.png) | Works as expected |
+| Brave | ![Brave](documentation/compatibility/brave.png) | Works as expected |
 
 ### Manual Testing
 
@@ -122,7 +149,7 @@ Including the following:
 
 My site is responsive across devices of different sizes. I have tested on the following using [responsive viewer](https://responsiveviewer.org/)
 
-| Device and size | Screenshot | Comments
+| Device and size | Screenshot | Comments |
 | --- | --- | --- |
 | Mobile (Chrome DevTools) | ![DevTools](documentation/responsiveness/mobile-home.png) | Pass |
 | Mobile (iPhone) | ![iPhone](documentation/responsiveness/iPhone.png) | Pass |
