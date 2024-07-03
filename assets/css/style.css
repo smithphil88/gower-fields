@@ -173,7 +173,6 @@ footer {
 .left-image>img {
     border-radius: 20px;
     width: 75%;
-    height: 550px;
     padding-bottom: 10px;
 }
 
@@ -187,7 +186,6 @@ footer {
 .right-image>img {
     border-radius: 20px;
     width: 75%;
-    height: 550px;
     padding-bottom: 10px;
 }
 
@@ -433,6 +431,10 @@ footer {
 #response-icon:hover {
     background-color: #7f5e3e;
     color: #fefae0;
+}
+
+.page-height {
+    min-height: 100vh;
 }
 
 /* media and responsiveness on tablet size */
