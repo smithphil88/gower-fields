@@ -1,10 +1,8 @@
 # Gower Fields 
 
-
 <p align="center">
   <img src="documentation/screens.png">
 </p>
-
 
 ## Table of Contents
 
@@ -309,5 +307,7 @@ And credit goes to the individual photographers for these stunning images.
 
 #### Acknowledgments
 
-- My partner Emma, who has supported this career switch 100%.
 - My mentor Julia, who has provided expert guidance and feedback.
+- My cohort facilitator, Lewis and my fellow cohort for their assistance.
+- My greyhounds Olive and Ruby, who were the inspiration for this site.
+- And finally, my partner Emma, who without her support, this career change would not be at all possible, thank you.
