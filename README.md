@@ -32,10 +32,10 @@ This is a fictional website to give potential customers an idea of what Gower Fi
 
 ### Website Owner Business Goals
 
-As the owner of the business, I would like to
+As the owner of the business, I would like to:
 
 - Share services with customers.
-- Give clear, specific and up-to date information in order to attract customers.
+- Give clear, specific and up-to-date information in order to attract customers.
 - Link with social media accounts to add authenticity to the business.
 - Allow the user to contact the business via a form.
 
@@ -69,7 +69,7 @@ As a user, I would like to
 #### Business Owner
 
 1. As a business owner, I want to provide users with clear information, so they know what we offer.
-2. As a business owner, I want to provide an easy-to-use contact form so they can get in touch with a response page so they feel valued.
+2. As a business owner, I want to provide an easy-to-use contact form so they can get in touch with a response page and feel valued.
 3. As a business owner, I want to show users the grounds and images from other customers so they can know what other people experience.
 4. As a business owner, I want to promote the business by linking with social media to make the business more accessible.
 
@@ -84,7 +84,7 @@ Google fonts was used in order to import Poppins and as a back-up font Sans Seri
 
 #### Images 
 
-All images have been taken from websites that will be attributed in the credits section. These images have been re-sized to make them more appealing and consistent using a re-sizing tool. The images used are included to add to the visual appeal of the site. The colours in the images are ones with neutral and natural tones to keep inline with the colour scheme that was chosen.
+All images have been taken from websites that will be attributed to in the credits section. These images have been re-sized to make them more appealing and consistent using a re-sizing tool. The images used are included to add to the visual appeal of the site. The colours in the images are ones with neutral and natural tones to keep inline with the colour scheme that was chosen.
 
 #### Wireframes
 
@@ -114,7 +114,7 @@ All images have been taken from websites that will be attributed in the credits 
 - Clicking on the logo on the left-hand side will take you back to the home page.
 - On the right-hand side of the navigation bar, there are links to the other pages (Home, About, Gallery and Contact).
 - When hovering over a link, the word changes colour, keeping with the color scheme.
-- Also, the page link will be underlined when it is active.
+- Also, the page link will be underlined when it is active so the user knows which page they are on.
 - The bar is responsive and on smaller screen sizes the links for the other pages push into the middle.
 
 ![Navbar](documentation/navbar.png)
@@ -123,9 +123,9 @@ All images have been taken from websites that will be attributed in the credits 
 
 - The footer uses the same colour scheme as the navigation bar to make the site more visually appealing.
 - The footer is located at the bottom of all pages as the user would expect.
-- The footer consists of three links to the social media accounts of the business.
-- Hovering over the icons the colour switches in a pleasing effect.
-- All links have been tested and work.
+- The footer consists of three links to the social media accounts of the business (Facebook, Instagram and TikTok).
+- When hovering over the icons, the colour switches in a pleasing effect.
+- All links have been tested and work as expected.
 
 ![Footer](documentation/footer.png)
 #### Hero Images
@@ -137,10 +137,10 @@ All images have been taken from websites that will be attributed in the credits 
 #### Home Page
 
 - This page acts as the landing page. It has a enticing and visually pleasing hero image and gives a clear indication of what the business is.
-- Towards the bottom of the home page are more visually appealing images that align with the sites color palette.
+- Towards the bottom of the home page are more visually appealing images that align with the sites colour palette.
 - The information on the home page is minimal, designed not to overwhelm any potential users.
-- The text is desinged to give a brief intorduction to the business and what users can expect.
-- There is a call to action button, which will take the user directly to the contact page where they can fill out a form to ask any queires or questions.
+- The text is designed to give a brief introduction to the business and what users can expect.
+- There is a call to action button, which will take the user directly to the contact page where they can fill out a form to ask any queries or questions.
 
 ![Home page 1](documentation/home-page-1.png)
 ![Home page 1](documentation/home-page-2.png)
