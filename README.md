@@ -196,6 +196,8 @@ All images have been taken from websites that will be attributed in the credits 
 - [GitHub pages](https://pages.github.com/) - this has been used to deploy my site.
 - [Google maps](https://www.google.co.uk/maps/@51.6114098,-4.2372575,10.42z?entry=ttu) - this was used to provide the map on the about page.
 - [Coolors](https://coolors.co/5b5656-7f5e3e-d4a373-e9edc9-faedcd-fefae0) - this site was used to generate an initial color scheme and to display my final chosen color scheme.
+- [Go Full Page](https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=en) - to take full screen captures.
+- [Responsive viewer](https://responsiveviewer.org/) - this was used to check responsiveness on a variety of devices.
 
 ### Testing 
 
