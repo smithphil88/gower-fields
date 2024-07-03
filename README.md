@@ -303,7 +303,7 @@ And credit goes to the individual photographers for these stunning images.
 
 - The code used for my gallery is similiar to the code used in the Code Institute project 'Love Running', I used it as a base in which to customise my own gallery.
 
-- 
+- Code tutorial on positioning images and text overlays [W3school](https://www.w3schools.com/css/css_positioning.asp)
 
 #### Acknowledgments
 
