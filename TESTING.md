@@ -120,7 +120,19 @@ Including the following:
 
 ### Responsiveness
 
-My site is responsive across devices of different sizes. I have tested on
+My site is responsive across devices of different sizes. I have tested on the following using [responsive viewer](https://responsiveviewer.org/)
+
+| Device and size | Screenshot | Comments
+| --- | --- | --- |
+| Mobile (Chrome DevTools) | ![DevTools](documentation/responsiveness/mobile-home.png) | Pass |
+| Mobile (iPhone) | ![iPhone](documentation/responsiveness/iPhone.png) | Pass |
+| Mobile (Pixel 7) | ![pixel 7](documentation/responsiveness/pixel-7-pro.png) | Pass |
+| Tablet (Chrome DevTools) | ![Devtools](documentation/responsiveness/tablet-about.png) | Pass |
+| Tablet (iPad) | ![iPad](documentation/responsiveness/ipad-about.png) | Pass |
+| Tablet (Galaxy Tablet) | ![Galaxy Tablet](documentation/responsiveness/galaxy-tab-about.png) | Pass |
+| Large laptop (1440px) | ![DevTools](documentation/responsiveness/laptop-gallery.png) | Pass |
+| Desktop (iMac) | ![iMac](documentation/responsiveness/imac-gallery.png) | Pass |
+| Desktop (4k DevTools) | ![DevTools](documentation/responsiveness/4k-gallery.png) | Pass |
 
 ### README
 
