@@ -122,6 +122,7 @@ footer {
     width: 100%;
     background: url("../images/hero-image2.jpg") no-repeat center center;
     background-color:#E9EDC9;
+    background-size: cover;
 }
 
 #cover-text {
@@ -485,6 +486,22 @@ footer {
 
     #form-title {
         font-size: 20px
+}
+
+}
+
+/* media and responsiveness for home page */
+
+@media screen and (max-width: 630px) {
+    #home-info-header {
+        font-size: 26px;
+}
+
+#cover-text {
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    font-size: 100%;
 }
 
 }
