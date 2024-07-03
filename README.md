@@ -42,7 +42,7 @@ As the owner of the business, I would like to:
 
 ### User Goals
 
-As a user, I would like to
+As a user, I would like to:
 
 - Locate information in a simple and timely manner.
 - Find the location of the business.
@@ -151,14 +151,14 @@ All images have been taken from websites that will be attributed to in the credi
 - It is split into three columns in order to make it more readable.
 - Images are inline with the style of the site and have been put in to make the page more attractive.
 - Two of the three columns describe the types of services offered.
-- The middle column gives information about the address and includes a google maps iframe so customers can easily locate the business.
+- The middle column gives information about the address and includes a Google Maps iframe so customers can easily locate the business.
 
 ![Home page 1](documentation/about.png)
 
 #### Gallery
 
 - This page includes images from other users.
-- This is designed to allow customers see what types of experiences their pets could have if they choose Gower Fields.
+- This is designed to allow customers to see what types of experiences their pets could have if they choose Gower Fields.
 - The photos used have been chosen as they fit in with the style of the page.
 
 ![Home page 1](documentation/gallery-1.png)
@@ -168,8 +168,8 @@ All images have been taken from websites that will be attributed to in the credi
 - On this page, the user is encouraged to ask about any questions that they may have.
 - This page contains a form that the user will be required to fill out if they wish to pose a question.
 - All fields must be filled out correctly and the email address must be a legitimate email address with an @ sign.
-- There is a response page that the user a directed to, upon completion of the contact form.
-- This response page contains a short friendly message thanking the user for their question. It also includes the icon used in the navigation bar to take them back to the home page.
+- There is a response page that the user is directed to upon completion of the contact form.
+- This response page contains a short, friendly message thanking the user for their question. It also includes the icon used in the navigation bar to take them back to the home page.
 
 ![Home page 1](documentation/contact-1.png)
 ![Home page 1](documentation/contact-2.png)
@@ -192,41 +192,41 @@ All images have been taken from websites that will be attributed to in the credi
 - [Gitpod](https://www.gitpod.io/) - this was the IDE used to code.
 - [GitHub](https://github.com/) - this is used to store, track and share my project.
 - [GitHub pages](https://pages.github.com/) - this has been used to deploy my site.
-- [Google maps](https://www.google.co.uk/maps/@51.6114098,-4.2372575,10.42z?entry=ttu) - this was used to provide the map on the about page.
-- [Coolors](https://coolors.co/5b5656-7f5e3e-d4a373-e9edc9-faedcd-fefae0) - this site was used to generate an initial color scheme and to display my final chosen color scheme.
+- [Google maps](https://www.google.co.uk/maps/@51.6114098,-4.2372575,10.42z?entry=ttu) - this was used to provide the map on the About page.
+- [Coolors](https://coolors.co/5b5656-7f5e3e-d4a373-e9edc9-faedcd-fefae0) - this site was used to generate an initial colour scheme and to display my final chosen colour scheme.
 - [Go Full Page](https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=en) - to take full screen captures.
 - [Responsive viewer](https://responsiveviewer.org/) - this was used to check responsiveness on a variety of devices.
 
 ### Testing 
 
-Please see the [TESTING.md](TESTING.md) file for all testing
+Please see the [TESTING.md](TESTING.md) file for all testing.
 
 ### Deployment
 
-#### How to deploy the site;
+#### How to deploy the site
 
-In order to deploy the site - follow these steps.
+In order to deploy the site, follow these steps:
 
-- Navigate to the correct repository [smithphil88/gower-fields](https://github.com/smithphil88/gower-fields) and click on the settings tab.
-- On the left side under the menu 'code and automation', click on the pages link.
-- From the source section drop-down menu, select the Master Branch.
+- Navigate to the correct repository [smithphil88/gower-fields](https://github.com/smithphil88/gower-fields) and click on the 'Settings' tab.
+- On the left side under the menu 'Code and automation', click on the 'Pages' link.
+- From the source section drop-down menu, select the 'Master Branch'.
 - Once selected, the page will automatically refresh with a detailed ribbon, indicating a successful deployment.
 
 - The link to the live address is here - [Gower Fields](https://smithphil88.github.io/gower-fields/)
 
-#### How to clone the site;
+#### How to clone the site
 
-In order to clone the site and make a local copy, follow these steps -
+In order to clone the site and make a local copy, follow these steps:
 
 - Go to the repository [smithphil88/gower-fields](https://github.com/smithphil88/gower-fields)
-- Click on the 'code' button, click on 'HTTPS' and copy the link.
+- Click on the 'Code' button, click on 'HTTPS' and copy the link.
 - Open a terminal or GitBash and select where to store the cloned copy.
 - When asked, type in **git clone** into the terminal.
 - Then paste in the previous copied link to begin the cloning process.
 
 ### Bugs 
 
-This list compromises of the bugs that I had significant struggles with;
+This list consists of the bugs that I had significant struggles with:
 
 - The images did not load upon first deploying via GitHub - *fixed by using the correct path to my assets folder.*
 
@@ -249,7 +249,7 @@ This list compromises of the bugs that I had significant struggles with;
 ![white space error](documentation/bug-5.png)
 ![white space error](documentation/bug-6.png)
 
-- The columns on the about page were in the correct order on the desktop view, however I wanted them in a different order on mobile and tablet - *fixed by using the order class.*
+- The columns on the About page were in the correct order on the desktop view, however I wanted them in a different order on mobile and tablet - *fixed by using the order class.*
 
 ![columns not loading in preferred manner](documentation/bug-7.png)
 
@@ -299,9 +299,9 @@ And credit goes to the individual photographers for these stunning images.
 
 - To add in a favicon I used the code on this site - [W3schools](https://www.w3schools.com/howto/howto_html_favicon.asp)
 
-- I used this bootstrap code intially on the about page but customised it to suit what I wanted - [Bootstrap card](https://getbootstrap.com/docs/4.0/components/card/)
+- I used this bootstrap code initially on the About page but customised it to suit what I wanted - [Bootstrap card](https://getbootstrap.com/docs/4.0/components/card/)
 
-- The code used for my gallery is similiar to the code used in the Code Institute project 'Love Running', I used it as a base in which to customise my own gallery.
+- The code used for my gallery is similiar to the code used in the Code Institute project 'Love Running'. I used it as a base from which to customise my own Gallery.
 
 - Code tutorial on positioning images and text overlays [W3school](https://www.w3schools.com/css/css_positioning.asp)
 
@@ -310,4 +310,4 @@ And credit goes to the individual photographers for these stunning images.
 - My mentor Julia, who has provided expert guidance and feedback.
 - My cohort facilitator, Lewis and my fellow cohort for their assistance.
 - My greyhounds Olive and Ruby, who were the inspiration for this site.
-- And finally, my partner Emma, who without her support, this career change would not be at all possible, thank you.
+- And finally, my partner Emma, who without her support this career change would not be at all possible, thank you.
